@@ -1,6 +1,6 @@
 # University Programming Projects
 
-Coursework by **Md Sojib Uddin** — Anwer Khan Modern University
+Coursework by **Md Sojib Uddin** — Anwer Khan Modern University এর নাম
 
 ## Projects
 

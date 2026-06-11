@@ -16,4 +16,4 @@ gcc sizeTest.c -o out && ./out
 - Problem solving with C
 
 ---
-*University coursework by AK Sojib — তোমার University এর নাম*
+*University coursework by Md Sojib Uddin — Anwer Khan Modern University এর নাম*
