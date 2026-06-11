@@ -1,6 +1,6 @@
 # University Programming Projects
 
-Coursework by **AK Sojib** — তোমার University এর নাম
+Coursework by **Md Sojib Uddin** — Anwer Khan Modern University
 
 ## Projects
 
