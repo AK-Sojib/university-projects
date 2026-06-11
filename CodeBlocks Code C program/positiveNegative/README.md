@@ -1,0 +1,19 @@
+# Positive Negative
+
+## What it does
+This program demonstrates `positiveNegative` written in C as part of university coursework.
+
+## Language
+C
+
+## How to run
+```
+gcc positiveNegative.c -o out && ./out
+```
+
+## Concepts used
+- C programming
+- Problem solving with C
+
+---
+*University coursework by AK Sojib — তোমার University এর নাম*
