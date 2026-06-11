@@ -16,4 +16,4 @@ python forLoopNestedLoop.py
 - Problem solving with Python
 
 ---
-*University coursework by Md Sojib Uddin — Anwer Khan Modern University এর নাম*
+*University coursework by Md Sojib Uddin — Anwer Khan Modern University*

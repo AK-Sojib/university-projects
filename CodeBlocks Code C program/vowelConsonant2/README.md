@@ -16,4 +16,4 @@ gcc vowelConsonant2.c -o out && ./out
 - Problem solving with C
 
 ---
-*University coursework by Md Sojib Uddin — Anwer Khan Modern University এর নাম*
+*University coursework by Md Sojib Uddin — Anwer Khan Modern University*
